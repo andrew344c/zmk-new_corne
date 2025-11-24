@@ -31,6 +31,8 @@
 &mt {
 };
 
+&lt { flavor = "hold-preferred"; };
+
 / {
     behaviors {
         td0: td0 {
